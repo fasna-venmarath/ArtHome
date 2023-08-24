@@ -12,6 +12,7 @@ import {
 }from 'mdb-react-ui-kit';
 import { useNavigate } from 'react-router-dom';
 
+
 function Register() {
 
   const [fname, setFname] = useState('')
